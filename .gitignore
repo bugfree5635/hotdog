@@ -24,6 +24,10 @@ profile.cov
 go.work
 go.work.sum
 
+go.sum
+
+cheaper/
+
 # env file
 .env
 
